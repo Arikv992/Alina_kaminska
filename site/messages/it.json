@@ -1,0 +1,76 @@
+{
+  "nav": { "servicios": "Servizi", "academia": "Accademia", "galeria": "Risultati", "historia": "La nostra storia", "contacto": "Contatti", "reservar": "Prenota", "open_menu": "Apri menu", "close_menu": "Chiudi menu", "main_nav": "Navigazione principale", "mobile_nav": "Navigazione mobile", "home": "Alina Kaminska Beauty Academy — home" },
+  "hero": { "title": "Ridefinisci la tua esperienza di bellezza", "subtitle": "Estetica e formazione di alto livello", "cta": "Prenota un appuntamento" },
+  "servicios": { "title": "Servizi", "lead": "Bellezza con criterio. Armonia in ogni dettaglio.", "cat": { "pestanas": "Ciglia", "unas": "Unghie", "cejas": "Sopracciglia", "pedicura": "Pedicure" }, "items_alt": { "pestanas": "Primo piano di occhi con extension ciglia UV applicate", "unas": "Mani con manicure impeccabile e finitura professionale", "cejas": "Sopracciglia perfettamente disegnate e definite con tecnica professionale", "pedicura": "Piedi con pedicure curata e finitura di alto livello" }, "sub": { "pestanas": { "uv": "Extension UV Light", "laminacion": "Laminazione", "henna": "Henna" }, "unas": { "semi": "Smalto semipermanente", "gel": "Gel / ricostruzione", "extension": "Extension gel/acrilico", "manicura": "Manicure con smalto" }, "cejas": { "laminacion": "Laminazione + henna", "henna": "Henna", "diseno": "Disegno e depilazione" }, "pedicura": { "spa": "Spa con semipermanente", "semi": "Con semipermanente", "podologica": "Podologica" } } },
+  "academia": {
+    "title": "Accademia",
+    "lead": "Formazione che eleva il tuo talento",
+    "body": "Corsi certificati in manicure, ciglia e sopracciglia.",
+    "cta": "Voglio formarmi",
+    "certified": "Certificato",
+    "online_soon": "Corso online — prossimamente",
+    "courses": {
+      "manicura": { "label": "Manicure professionale", "alt": "Corso di manicure professionale" },
+      "pestanas": { "label": "Extension ciglia UV", "alt": "Corso di extension ciglia UV" },
+      "cejas": { "label": "Design sopracciglia", "alt": "Corso di design sopracciglia" }
+    }
+  },
+  "galeria": {
+    "title": "Risultati",
+    "rating": "5,0",
+    "reviews_label": "recensioni verificate su Booksy",
+    "see_booksy": "Vedi su Booksy",
+    "video_label": "video",
+    "play": "Riproduci: {alt}",
+    "pause": "Metti in pausa: {alt}",
+    "items": {
+      "insp_05": "Risultato reale — extension ciglia volume naturale",
+      "insp_biz": "Lavori reali — unghie, ciglia, sopracciglia e pedicure",
+      "video_lashes": "Video — corso di extension ciglia UV dal vivo"
+    }
+  },
+  "historia": {
+    "title": "La nostra storia",
+    "body": "La nostra storia inizia con la passione di Alina Kaminska per lo styling professionale e l'insegnamento.",
+    "img_alt": "Alina Kaminska — bellezza con criterio e passione per l'estetica",
+    "img_caption": "14+ anni di esperienza",
+    "milestones": {
+      "pasion": { "title": "La passione", "body": "L'origine di tutto. L'amore incondizionato per l'estetica, la bellezza e il benessere di ogni cliente." },
+      "tecnica": { "title": "La tecnica", "body": "14+ anni perfezionando il mestiere. Formazione continua, materiali d'élite e un occhio allenato per ogni dettaglio." },
+      "academia": { "title": "L'accademia", "body": "Il desiderio di condividere la conoscenza: corsi certificati per formare la prossima generazione di professionisti." },
+      "hoy": { "title": "Oggi", "body": "Un centro di estetica e formazione di riferimento a Torrevieja, dove ogni visita è un'esperienza di lusso." }
+    }
+  },
+  "contacto": {
+    "title": "Prenota il tuo appuntamento",
+    "address": "Av. Dr. Gregorio Marañón 7/8, Torrevieja",
+    "hours": "Lun–Ven 9:30–17:00",
+    "whatsapp": "Scrivici su WhatsApp",
+    "whatsapp_aria": "Scrivici su WhatsApp (si apre in una nuova scheda)",
+    "form_name": "Nome",
+    "form_contact": "Email o telefono",
+    "form_service": "Servizio di interesse",
+    "form_submit": "Richiedi appuntamento",
+    "form_ok": "Grazie! Ti contatteremo molto presto.",
+    "form_error": "Si è verificato un errore. Riprova o scrivici su WhatsApp.",
+    "label_address": "Indirizzo",
+    "label_hours": "Orario",
+    "label_phone": "Telefono",
+    "map_title": "Posizione di Alina Kaminska Beauty Academy a Torrevieja",
+    "map_aria": "Mappa con la posizione del salone a Torrevieja",
+    "divider_or": "o",
+    "wa_text": "Ciao, vorrei prenotare un appuntamento presso Alina Kaminska Beauty Academy."
+  },
+  "footer": {
+    "social_heading": "Social media",
+    "instagram_aria": "Alina Kaminska Beauty Academy su Instagram (si apre in una nuova scheda)",
+    "facebook_aria": "Alina Kaminska Beauty Academy su Facebook (si apre in una nuova scheda)",
+    "kit_digital_aria": "Progetto finanziato da Kit Digital",
+    "kit_digital_funded": "Finanziato dall'Unione Europea",
+    "kit_digital_eu": "Next Generation EU",
+    "lang_heading": "Lingua",
+    "copyright": "Tutti i diritti riservati.",
+    "location": "Torrevieja, Alicante, Spagna",
+    "hours": "Lun–Ven 9:30–17:00"
+  }
+}

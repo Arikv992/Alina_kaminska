@@ -1,0 +1,77 @@
+@import "tailwindcss";
+
+/* Brand palette — matched to alinakaminskabeautyacademy.com (original site)
+   Original site: white page + #fafafa sections, pure-black bands, terracotta
+   accent (#8c5d49 buttons / #86543f headings), grey body text, gold kept only
+   in the logo. Token names preserved; only their values changed. */
+:root {
+  --oro: #8c5d49;   /* terracotta/copper accent (buttons, borders, headings) — on light bg */
+  --crema: #ffffff; /* white: page background + light text on dark bands */
+  --nude: #fafafa;  /* soft off-white for alternating section backgrounds */
+  --carbon: #141414;/* near-black: dark text + the black CTA/nav bands */
+}
+
+@theme inline {
+  /* Brand colours */
+  --color-oro: var(--oro);
+  --color-crema: var(--crema);
+  --color-nude: var(--nude);
+  --color-carbon: var(--carbon);
+  /* Terracotta tones — oro-light is the accent for use ON dark bands (keeps AA contrast) */
+  --color-oro-dark: #6e4636;
+  --color-oro-light: #cb9d80;
+  --color-oro-pale: #ead9d1;
+
+  /* Typography */
+  --font-display: var(--font-display);
+  --font-sans: var(--font-sans);
+}
+
+body {
+  background: var(--crema);
+  color: var(--carbon);
+}
+
+/* Language dropdown: subtle fade + scale on open */
+@keyframes dropdown-in {
+  from { opacity: 0; transform: scale(0.96); }
+  to   { opacity: 1; transform: scale(1); }
+}
+.dropdown-in { animation: dropdown-in 0.15s ease-out; }
+@media (prefers-reduced-motion: reduce) {
+  .dropdown-in { animation: none; }
+}
+
+/* Chat teaser bubble: springy pop-in, then a gentle perpetual float so it never feels static */
+@keyframes teaser-in {
+  0%   { opacity: 0; transform: translateY(18px) scale(0.8); }
+  55%  { opacity: 1; transform: translateY(-6px) scale(1.05); }
+  75%  { transform: translateY(2px) scale(0.99); }
+  100% { opacity: 1; transform: translateY(0) scale(1); }
+}
+@keyframes teaser-float {
+  0%, 100% { transform: translateY(0); }
+  50%      { transform: translateY(-6px); }
+}
+.teaser-in {
+  animation:
+    teaser-in 0.55s cubic-bezier(0.34, 1.56, 0.64, 1) both,
+    teaser-float 3.2s ease-in-out 0.7s infinite;
+  transform-origin: bottom right;
+}
+@media (prefers-reduced-motion: reduce) {
+  .teaser-in { animation: none; }
+}
+
+/* Hero background: slow Ken Burns drift (disabled for reduced-motion) */
+@keyframes kenburns {
+  from { transform: scale(1); }
+  to { transform: scale(1.09); }
+}
+.kenburns {
+  animation: kenburns 22s ease-in-out infinite alternate;
+  will-change: transform;
+}
+@media (prefers-reduced-motion: reduce) {
+  .kenburns { animation: none; }
+}

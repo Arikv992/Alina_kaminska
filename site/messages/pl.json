@@ -1,0 +1,76 @@
+{
+  "nav": { "servicios": "Usługi", "academia": "Akademia", "galeria": "Rezultaty", "historia": "Nasza historia", "contacto": "Kontakt", "reservar": "Zarezerwuj", "open_menu": "Otwórz menu", "close_menu": "Zamknij menu", "main_nav": "Nawigacja główna", "mobile_nav": "Nawigacja mobilna", "home": "Alina Kaminska Beauty Academy — strona główna" },
+  "hero": { "title": "Odkryj wyjątkowe doświadczenie piękna", "subtitle": "Estetyka i szkolenia na najwyższym poziomie", "cta": "Zarezerwuj wizytę" },
+  "servicios": { "title": "Usługi", "lead": "Piękno z pasją. Harmonia w każdym detalu.", "cat": { "pestanas": "Rzęsy", "unas": "Paznokcie", "cejas": "Brwi", "pedicura": "Pedicure" }, "items_alt": { "pestanas": "Zbliżenie oczu z nałożonymi rzęsami UV", "unas": "Dłonie z nieskazitelnym manicure i profesjonalnym wykończeniem", "cejas": "Precyzyjnie wystylizowane i zdefiniowane brwi techniką profesjonalną", "pedicura": "Stopy ze starannym pedicure i wykończeniem na wysokim poziomie" }, "sub": { "pestanas": { "uv": "Przedłużanie UV Light", "laminacion": "Laminacja", "henna": "Henna" }, "unas": { "semi": "Semipermanentny lakier", "gel": "Żel / uzupełnienie", "extension": "Przedłużanie żel/akryl", "manicura": "Manicure z lakierem" }, "cejas": { "laminacion": "Laminacja + henna", "henna": "Henna", "diseno": "Stylizacja i depilacja" }, "pedicura": { "spa": "Spa z semipermanentnym", "semi": "Z semipermanentnym", "podologica": "Podologiczny" } } },
+  "academia": {
+    "title": "Akademia",
+    "lead": "Szkolenia, które rozwijają Twój talent",
+    "body": "Certyfikowane kursy z manicure, rzęs i brwi.",
+    "cta": "Chcę się szkolić",
+    "certified": "Certyfikat",
+    "online_soon": "Kurs online — wkrótce",
+    "courses": {
+      "manicura": { "label": "Manicure profesjonalny", "alt": "Kurs manicure profesjonalnego" },
+      "pestanas": { "label": "Przedłużanie rzęs UV", "alt": "Kurs przedłużania rzęs UV" },
+      "cejas": { "label": "Stylizacja brwi", "alt": "Kurs stylizacji brwi" }
+    }
+  },
+  "galeria": {
+    "title": "Rezultaty",
+    "rating": "5,0",
+    "reviews_label": "zweryfikowanych opinii na Booksy",
+    "see_booksy": "Zobacz na Booksy",
+    "video_label": "wideo",
+    "play": "Odtwórz: {alt}",
+    "pause": "Wstrzymaj: {alt}",
+    "items": {
+      "insp_05": "Prawdziwy efekt — przedłużanie rzęs objętość naturalna",
+      "insp_biz": "Prawdziwe prace — paznokcie, rzęsy, brwi i pedicure",
+      "video_lashes": "Wideo — kurs przedłużania rzęs UV na żywo"
+    }
+  },
+  "historia": {
+    "title": "Nasza historia",
+    "body": "Nasza historia zaczyna się od pasji Aliny Kamińskiej do profesjonalnej stylizacji i nauczania.",
+    "img_alt": "Alina Kaminska — piękno z pasją i miłością do estetyki",
+    "img_caption": "14+ lat doświadczenia",
+    "milestones": {
+      "pasion": { "title": "Pasja", "body": "Skąd wszystko się zaczęło. Bezwarunkowa miłość do estetyki, piękna i dobrostanu każdej klientki." },
+      "tecnica": { "title": "Technika", "body": "14+ lat doskonalenia rzemiosła. Ciągłe szkolenia, materiały z wyższej półki i wprawne oko na każdy detal." },
+      "academia": { "title": "Akademia", "body": "Pragnienie dzielenia się wiedzą: certyfikowane kursy kształcące następne pokolenie profesjonalistów." },
+      "hoy": { "title": "Dziś", "body": "Wiodące centrum estetyczne i szkoleniowe w Torrevieja, gdzie każda wizyta to luksusowe doświadczenie." }
+    }
+  },
+  "contacto": {
+    "title": "Zarezerwuj wizytę",
+    "address": "Av. Dr. Gregorio Marañón 7/8, Torrevieja",
+    "hours": "Pon–Pt 9:30–17:00",
+    "whatsapp": "Napisz do nas na WhatsApp",
+    "whatsapp_aria": "Napisz do nas na WhatsApp (otwiera się w nowej karcie)",
+    "form_name": "Imię i nazwisko",
+    "form_contact": "E-mail lub telefon",
+    "form_service": "Interesująca usługa",
+    "form_submit": "Poproś o wizytę",
+    "form_ok": "Dziękujemy! Skontaktujemy się z Tobą wkrótce.",
+    "form_error": "Wystąpił błąd. Spróbuj ponownie lub napisz do nas na WhatsApp.",
+    "label_address": "Adres",
+    "label_hours": "Godziny otwarcia",
+    "label_phone": "Telefon",
+    "map_title": "Lokalizacja Alina Kaminska Beauty Academy w Torrevieja",
+    "map_aria": "Mapa z lokalizacją salonu w Torrevieja",
+    "divider_or": "lub",
+    "wa_text": "Cześć, chciałabym zarezerwować wizytę w Alina Kaminska Beauty Academy."
+  },
+  "footer": {
+    "social_heading": "Media społecznościowe",
+    "instagram_aria": "Alina Kaminska Beauty Academy na Instagramie (otwiera się w nowej karcie)",
+    "facebook_aria": "Alina Kaminska Beauty Academy na Facebooku (otwiera się w nowej karcie)",
+    "kit_digital_aria": "Projekt finansowany przez Kit Digital",
+    "kit_digital_funded": "Finansowane przez Unię Europejską",
+    "kit_digital_eu": "Next Generation EU",
+    "lang_heading": "Język",
+    "copyright": "Wszelkie prawa zastrzeżone.",
+    "location": "Torrevieja, Alicante, Hiszpania",
+    "hours": "Pon–Pt 9:30–17:00"
+  }
+}

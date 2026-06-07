@@ -1,0 +1,76 @@
+{
+  "nav": { "servicios": "Servicios", "academia": "Academia", "galeria": "Resultados", "historia": "Historia", "contacto": "Contacto", "reservar": "Reservar", "open_menu": "Abrir menú", "close_menu": "Cerrar menú", "main_nav": "Navegación principal", "mobile_nav": "Menú móvil", "home": "Alina Kaminska Beauty Academy — inicio" },
+  "hero": { "title": "Redefina su experiencia en belleza", "subtitle": "Estética y formación de alto nivel", "cta": "Reservar cita" },
+  "servicios": { "title": "Servicios", "lead": "Belleza con criterio. Armonía en cada detalle.", "cat": { "pestanas": "Pestañas", "unas": "Uñas", "cejas": "Cejas", "pedicura": "Pedicura" }, "items_alt": { "pestanas": "Primer plano de ojos con extensiones de pestañas UV aplicadas", "unas": "Manos con manicura impecable y acabado profesional", "cejas": "Cejas perfectamente diseñadas y definidas con técnica profesional", "pedicura": "Pies con pedicura cuidada y acabado de alto nivel" }, "sub": { "pestanas": { "uv": "Extensión UV Light", "laminacion": "Laminación", "henna": "Henna" }, "unas": { "semi": "Esmalte semipermanente", "gel": "Gel / relleno", "extension": "Extensión gel/acrílico", "manicura": "Manicura con esmalte" }, "cejas": { "laminacion": "Laminación + henna", "henna": "Henna", "diseno": "Diseño y depilación" }, "pedicura": { "spa": "Spa con semipermanente", "semi": "Con semipermanente", "podologica": "Podológica" } } },
+  "academia": {
+    "title": "Academia",
+    "lead": "Formación que eleva tu talento",
+    "body": "Cursos certificados en manicura, pestañas y cejas.",
+    "cta": "Quiero formarme",
+    "certified": "Certificado",
+    "online_soon": "Curso online — próximamente",
+    "courses": {
+      "manicura": { "label": "Manicura profesional", "alt": "Curso de manicura profesional" },
+      "pestanas": { "label": "Extensión de pestañas UV", "alt": "Curso de extensión de pestañas UV" },
+      "cejas": { "label": "Diseño de cejas", "alt": "Curso de diseño de cejas" }
+    }
+  },
+  "galeria": {
+    "title": "Resultados",
+    "rating": "5,0",
+    "reviews_label": "reseñas verificadas en Booksy",
+    "see_booksy": "Ver en Booksy",
+    "video_label": "vídeo",
+    "play": "Reproducir: {alt}",
+    "pause": "Pausar: {alt}",
+    "items": {
+      "insp_05": "Resultado real — extensión de pestañas volumen natural",
+      "insp_biz": "Trabajos reales — uñas, pestañas, cejas y pedicura",
+      "video_lashes": "Vídeo — curso de extensión de pestañas UV en directo"
+    }
+  },
+  "historia": {
+    "title": "Nuestra historia",
+    "body": "Nuestra historia comienza con la pasión de Alina Kaminska por el estilismo profesional y la enseñanza.",
+    "img_alt": "Alina Kaminska — belleza con criterio y pasión por la estética",
+    "img_caption": "14+ años de experiencia",
+    "milestones": {
+      "pasion": { "title": "La pasión", "body": "El origen de todo. El amor incondicional por la estética, la belleza y el bienestar de cada clienta." },
+      "tecnica": { "title": "La técnica", "body": "14+ años perfeccionando el oficio. Formación continua, materiales de élite y un ojo entrenado para cada detalle." },
+      "academia": { "title": "La academia", "body": "El deseo de compartir el conocimiento: cursos certificados para formar a la próxima generación de profesionales." },
+      "hoy": { "title": "Hoy", "body": "Un centro de estética y formación de referencia en Torrevieja, donde cada visita es una experiencia de lujo." }
+    }
+  },
+  "contacto": {
+    "title": "Reserva tu cita",
+    "address": "Av. Dr. Gregorio Marañón 7/8, Torrevieja",
+    "hours": "Lun–Vie 9:30–17:00",
+    "whatsapp": "Escríbenos por WhatsApp",
+    "whatsapp_aria": "Escríbenos por WhatsApp (abre en nueva pestaña)",
+    "form_name": "Nombre",
+    "form_contact": "Email o teléfono",
+    "form_service": "Servicio de interés",
+    "form_submit": "Solicitar cita",
+    "form_ok": "¡Gracias! Te contactaremos muy pronto.",
+    "form_error": "Ha ocurrido un error. Por favor inténtalo de nuevo o escríbenos por WhatsApp.",
+    "label_address": "Dirección",
+    "label_hours": "Horario",
+    "label_phone": "Teléfono",
+    "map_title": "Ubicación de Alina Kaminska Beauty Academy en Torrevieja",
+    "map_aria": "Mapa de ubicación del salón en Torrevieja",
+    "divider_or": "o",
+    "wa_text": "Hola, quiero reservar una cita en Alina Kaminska Beauty Academy."
+  },
+  "footer": {
+    "social_heading": "Redes sociales",
+    "instagram_aria": "Instagram de Alina Kaminska Beauty Academy (abre en nueva pestaña)",
+    "facebook_aria": "Facebook de Alina Kaminska Beauty Academy (abre en nueva pestaña)",
+    "kit_digital_aria": "Proyecto financiado por Kit Digital",
+    "kit_digital_funded": "Financiado por la Unión Europea",
+    "kit_digital_eu": "Next Generation EU",
+    "lang_heading": "Idioma",
+    "copyright": "Todos los derechos reservados.",
+    "location": "Torrevieja, Alicante, España",
+    "hours": "Lun–Vie 9:30–17:00"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "nav": { "servicios": "Services", "academia": "Academy", "galeria": "Results", "historia": "Our Story", "contacto": "Contact", "reservar": "Book Now", "open_menu": "Open menu", "close_menu": "Close menu", "main_nav": "Main navigation", "mobile_nav": "Mobile navigation", "home": "Alina Kaminska Beauty Academy — home" },
+  "hero": { "title": "Redefine your beauty experience", "subtitle": "High-end aesthetics and professional training", "cta": "Book an appointment" },
+  "servicios": { "title": "Services", "lead": "Beauty with purpose. Harmony in every detail.", "cat": { "pestanas": "Lashes", "unas": "Nails", "cejas": "Eyebrows", "pedicura": "Pedicure" }, "items_alt": { "pestanas": "Close-up of eyes with UV lash extensions applied", "unas": "Hands with an immaculate manicure and professional finish", "cejas": "Precisely shaped and defined eyebrows using professional technique", "pedicura": "Feet with a polished pedicure and high-end finish" }, "sub": { "pestanas": { "uv": "UV Light Extension", "laminacion": "Lamination", "henna": "Henna" }, "unas": { "semi": "Semi-permanent polish", "gel": "Gel / infill", "extension": "Gel / acrylic extension", "manicura": "Manicure with polish" }, "cejas": { "laminacion": "Lamination + henna", "henna": "Henna", "diseno": "Shaping & waxing" }, "pedicura": { "spa": "Spa with semi-permanent", "semi": "With semi-permanent", "podologica": "Podological" } } },
+  "academia": {
+    "title": "Academy",
+    "lead": "Training that elevates your talent",
+    "body": "Certified courses in manicure, lashes and eyebrows.",
+    "cta": "I want to train",
+    "certified": "Certified",
+    "online_soon": "Online course — coming soon",
+    "courses": {
+      "manicura": { "label": "Professional Manicure", "alt": "Professional manicure course" },
+      "pestanas": { "label": "UV Lash Extensions", "alt": "UV lash extensions course" },
+      "cejas": { "label": "Eyebrow Design", "alt": "Eyebrow design course" }
+    }
+  },
+  "galeria": {
+    "title": "Results",
+    "rating": "5,0",
+    "reviews_label": "verified reviews on Booksy",
+    "see_booksy": "See on Booksy",
+    "video_label": "video",
+    "play": "Play: {alt}",
+    "pause": "Pause: {alt}",
+    "items": {
+      "insp_05": "Real result — natural volume lash extensions",
+      "insp_biz": "Real work — nails, lashes, eyebrows and pedicure",
+      "video_lashes": "Video — live UV lash extension course"
+    }
+  },
+  "historia": {
+    "title": "Our Story",
+    "body": "Our story begins with Alina Kaminska's passion for professional styling and teaching.",
+    "img_alt": "Alina Kaminska — beauty with purpose and a passion for aesthetics",
+    "img_caption": "14+ years of experience",
+    "milestones": {
+      "pasion": { "title": "The passion", "body": "Where it all began. An unconditional love for aesthetics, beauty and the wellbeing of every client." },
+      "tecnica": { "title": "The technique", "body": "14+ years perfecting the craft. Continuous training, elite materials and a trained eye for every detail." },
+      "academia": { "title": "The academy", "body": "The desire to share knowledge: certified courses to train the next generation of professionals." },
+      "hoy": { "title": "Today", "body": "A leading beauty and training centre in Torrevieja, where every visit is a luxury experience." }
+    }
+  },
+  "contacto": {
+    "title": "Book your appointment",
+    "address": "Av. Dr. Gregorio Marañón 7/8, Torrevieja",
+    "hours": "Mon–Fri 9:30–17:00",
+    "whatsapp": "Message us on WhatsApp",
+    "whatsapp_aria": "Message us on WhatsApp (opens in new tab)",
+    "form_name": "Name",
+    "form_contact": "Email or phone",
+    "form_service": "Service of interest",
+    "form_submit": "Request appointment",
+    "form_ok": "Thank you! We will contact you very soon.",
+    "form_error": "An error occurred. Please try again or message us on WhatsApp.",
+    "label_address": "Address",
+    "label_hours": "Opening hours",
+    "label_phone": "Phone",
+    "map_title": "Location of Alina Kaminska Beauty Academy in Torrevieja",
+    "map_aria": "Map showing the salon location in Torrevieja",
+    "divider_or": "or",
+    "wa_text": "Hello, I would like to book an appointment at Alina Kaminska Beauty Academy."
+  },
+  "footer": {
+    "social_heading": "Social media",
+    "instagram_aria": "Alina Kaminska Beauty Academy on Instagram (opens in new tab)",
+    "facebook_aria": "Alina Kaminska Beauty Academy on Facebook (opens in new tab)",
+    "kit_digital_aria": "Project funded by Kit Digital",
+    "kit_digital_funded": "Funded by the European Union",
+    "kit_digital_eu": "Next Generation EU",
+    "lang_heading": "Language",
+    "copyright": "All rights reserved.",
+    "location": "Torrevieja, Alicante, Spain",
+    "hours": "Mon–Fri 9:30–17:00"
+  }
+}
